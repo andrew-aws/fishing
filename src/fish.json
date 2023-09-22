@@ -1,0 +1,310 @@
+[
+    {
+        "name": "Black Crappie",
+        "baits": [
+            "Minnow",
+            "Grub",
+            "Tube",
+            "Bloodworm",
+            "Marshmallow",
+            "Redworm",
+            "Spoon",
+            "Crankbait"
+        ]
+    },
+    {
+        "name": "Bluegill",
+        "baits": [
+            "Bloodworm",
+            "Redworm",
+            "Hotdog",
+            "Grub",
+            "Tube",
+            "Cheese",
+            "Eggs",
+            "Bread",
+            "Dough",
+            "Marshmallow",
+            "Leeches",
+            "Liver",
+            "Minnow",
+            "Spinner"
+        ]
+    },
+    {
+        "name": "Brook Trout",
+        "baits": [
+            "Spoon",
+            "Spinner",
+            "Eggs",
+            "Redworm",
+            "Worm",
+            "Bloodworm",
+            "Cheese",
+            "Minnow",
+            "Crankbait",
+            "Swimbait",
+            "Grub",
+            "Spinnerbait",
+            "Shad",
+            "Tube"
+        ]
+    },
+    {
+        "name": "Burbot",
+        "baits": [
+            "Liver",
+            "Shad",
+            "Redworm",
+            "Hotdog",
+            "Leeches",
+            "Minnow",
+            "Grub",
+            "Tube",
+            "Worm",
+            "Bloodworm",
+            "Cheese",
+            "Eggs",
+            "Dough",
+            "Marshmallow"
+        ]
+    },
+    {
+        "name": "Channel Catfish",
+        "baits": [
+            "Cheese",
+            "Redworm",
+            "Leeches",
+            "Liver",
+            "Dough",
+            "Hotdog",
+            "Minnow",
+            "Pearl Barley",
+            "Bread"
+        ]
+    },
+    {
+        "name": "Cutthroat Trout",
+        "baits": [
+            "Eggs",
+            "Spoon",
+            "Worm",
+            "Bloodworm",
+            "Redworm",
+            "Grub",
+            "Shad",
+            "Tube"
+        ]
+    },
+    {
+        "name": "Golden Trout",
+        "baits": [
+            "Spoon",
+            "Cheese",
+            "Marshmallow",
+            "Spinner",
+            "Redworm"
+        ]
+    },
+    {
+        "name": "Green Sunfish",
+        "baits": [
+            "Bloodworm",
+            "Redworm",
+            "Cheese",
+            "Eggs",
+            "Bread",
+            "Dough",
+            "Hotdog",
+            "Leeches",
+            "Popper",
+            "Marshmallow",
+            "Minnow",
+            "Grub",
+            "Tube",
+            "Spinner"
+        ]
+    },
+    {
+        "name": "Kokanee Salmon",
+        "baits": [
+            "Spinner",
+            "Spoon",
+            "Crankbait",
+            "Jerkbait"
+        ]
+    },
+    {
+        "name": "Lake Trout",
+        "baits": [
+            "Spoon",
+            "Spinner",
+            "Crankbait",
+            "Jerkbait",
+            "Tube",
+            "Worm",
+            "Grub",
+            "Shad"
+        ]
+    },
+    {
+        "name": "Largemouth Bass",
+        "baits": [
+            "Popper",
+            "Crankbait",
+            "Frog",
+            "Spinnerbait",
+            "Worm",
+            "Redworm",
+            "Leeches",
+            "Minnow",
+            "Grub",
+            "Shad",
+            "Tube",
+            "Eggs",
+            "Spoon",
+            "Spinner",
+            "Jerkbait"
+        ]
+    },
+    {
+        "name": "Mountain Whitefish",
+        "baits": [
+            "Eggs",
+            "Bread",
+            "Bloodworm",
+            "Redworm",
+            "Leeches",
+            "Minnow",
+            "Spinner",
+            "Pearl Barley",
+            "Cheese",
+            "Dough",
+            "Hotdog",
+            "Marshmallow",
+            "Spoon",
+            "Swimbait"
+        ]
+    },
+    {
+        "name": "Northern Pike",
+        "baits": [
+            "Swimbait",
+            "Jerkbait",
+            "Spinnerbait",
+            "Shad",
+            "Minnow",
+            "Spoon",
+            "Grub",
+            "Popper",
+            "Crankbait",
+            "Frog",
+            "Spinner"
+        ]
+    },
+    {
+        "name": "Ohrid Trout",
+        "baits": [
+            "Eggs",
+            "Redworm",
+            "Crankbait",
+            "Jerkbait",
+            "Worm",
+            "Spoon",
+            "Grub",
+            "Spinner",
+            "Shad",
+            "Tube"
+        ]
+    },
+    {
+        "name": "Rainbow Trout",
+        "baits": [
+            "Spinner",
+            "Pearl Barley",
+            "Dough",
+            "Marshmallow",
+            "Spoon",
+            "Bread",
+            "Redworm",
+            "Hotdog"
+        ]
+    },
+    {
+        "name": "Sauger",
+        "baits": [
+            "Redworm",
+            "Leeches",
+            "Minnow",
+            "Grub",
+            "Tube",
+            "Crankbait",
+            "Jerkbait",
+            "Worm"
+        ]
+    },
+    {
+        "name": "Shovelnose Sturgeon",
+        "baits": [
+            "Redworm",
+            "Cheese",
+            "Eggs",
+            "Liver",
+            "Spoon",
+            "Spinnerbait",
+            "Bloodworm",
+            "Minnow"
+        ]
+    },
+    {
+        "name": "Smallmouth Bass",
+        "baits": [
+            "Eggs",
+            "Popper",
+            "Frog",
+            "Spinnerbait",
+            "Worm",
+            "Redworm",
+            "Leeches",
+            "Minnow",
+            "Spoon",
+            "Crankbait",
+            "Swimbait",
+            "Grub",
+            "Spinner",
+            "Shad",
+            "Tube",
+            "Jerkbait"
+        ]
+    },
+    {
+        "name": "Tiger Muskie",
+        "baits": [
+            "Swimbait",
+            "Jerkbait",
+            "Spinnerbait",
+            "Shad",
+            "Minnow",
+            "Spoon",
+            "Grub",
+            "Popper",
+            "Frog"
+        ]
+    },
+    {
+        "name": "Walleye",
+        "baits": [
+            "Leeches",
+            "Minnow",
+            "Crankbait",
+            "Grub",
+            "Spoon",
+            "Spinner",
+            "Shad",
+            "Tube",
+            "Bloodworm",
+            "Worm"
+        ]
+    }
+
+]

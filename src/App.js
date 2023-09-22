@@ -1,47 +1,53 @@
 import './App.css';
 import getBaits from './tools/getBaits';
 import fish from './fish.json'
-import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
+import { useState } from 'react';
 
-const onDragEnd = (result) => {
-  console.log(result);
-};
+// const onDragEnd = (result) => {
+//   console.log(result);
+// };
 
-const handleClick = () => {
-  console.log(getBaits(fish.slice(0, 3), fish.slice(4, 5)))
+const handleDesiredClick = (fish, fishWithProps, updateFishWithProps) => {
+  updateFishWithProps(fishWithProps.map(thisFish => {
+    if (thisFish === fish) {
+      return { ...thisFish, desired: !thisFish.desired }
+    }
+    return thisFish
+  }))
+}
+
+const handleNuisanceClick = (fish, fishWithProps, updateFishWithProps) => {
+  updateFishWithProps(fishWithProps.map(thisFish => {
+    if (thisFish === fish) {
+      return { ...thisFish, nuisance: !thisFish.nuisance }
+    }
+    return thisFish
+  }))
 }
 
 const App = () => {
+  const [fishWithProps, updateFishWithProps] = useState(fish.map(fish => { return { ...fish, desired: false, nuisance: false } }))
+
   return (
     <div className="App">
-      <header className="App-header">
-        <DragDropContext onDragEnd={onDragEnd}>
-          All drag-and-drop functionality happens inside this context
-          <Droppable droppableId="fish">
-            {(provided) => (
-              <div ref={provided.innerRef} {...provided.droppableProps}>
-                {
-                  fish.map((thisFish, index) => (
-                    <Draggable key={thisFish.name} draggableId={thisFish.name} index={index}>
-                      {(provided) => (
-                        <div
-                          {...provided.draggableProps}
-                          {...provided.dragHandleProps}
-                          ref={provided.innerRef}
-                        >
-                          <div>{thisFish.name}</div>
-                        </div>
-                      )}
-                    </Draggable>
-                  ))
-                }
-                {provided.placeholder}
-              </div>
-            )}
-          </Droppable>¸
-        </DragDropContext>
-        <button onClick={handleClick}>Get Fish</button>
-      </header>
+
+      <div>
+        <p>
+          Desired Fish Toggle
+        </p>
+        {fishWithProps.map(fish => <button className={`${fish.desired ? 'on' : 'off'}`} key={`${fish.name} desired`} onClick={() => handleDesiredClick(fish, fishWithProps, updateFishWithProps)}>{fish.name}</button>)}
+      </div>
+      <div>
+        <p>
+          Nuisance Fish Toggle
+        </p>
+        {fishWithProps.map(fish => <button className={`${fish.nuisance ? 'on' : 'off'}`} key={`${fish.name} nuisance`} onClick={() => handleNuisanceClick(fish, fishWithProps, updateFishWithProps)}>{fish.name}</button>)}
+      </div>
+      <div>{
+        getBaits(fishWithProps)
+          .map(bait => <p>{bait}</p>)
+      }</div>
+      {/* <button onClick={console.log(getBaits(fishWithProps))}>Get Fish</button> */}
     </div>
   );
 }

@@ -1,5 +1,6 @@
 [
     {
+        "id": "0",
         "name": "Black Crappie",
         "baits": [
             "Minnow",
@@ -10,9 +11,11 @@
             "Redworm",
             "Spoon",
             "Crankbait"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
     },
     {
+        "id": "1",
         "name": "Bluegill",
         "baits": [
             "Bloodworm",
@@ -29,9 +32,11 @@
             "Liver",
             "Minnow",
             "Spinner"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
     },
     {
+        "id": "2",
         "name": "Brook Trout",
         "baits": [
             "Spoon",
@@ -48,9 +53,11 @@
             "Spinnerbait",
             "Shad",
             "Tube"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
     },
     {
+        "id": "3",
         "name": "Burbot",
         "baits": [
             "Liver",
@@ -67,9 +74,11 @@
             "Eggs",
             "Dough",
             "Marshmallow"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
     },
     {
+        "id": "4",
         "name": "Channel Catfish",
         "baits": [
             "Cheese",
@@ -81,9 +90,11 @@
             "Minnow",
             "Pearl Barley",
             "Bread"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/5/5c/Fishes_ScreenshotsChannel_Catfish.png?width=814"
     },
     {
+        "id": "5",
         "name": "Cutthroat Trout",
         "baits": [
             "Eggs",
@@ -94,9 +105,11 @@
             "Grub",
             "Shad",
             "Tube"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
     },
     {
+        "id": "6",
         "name": "Golden Trout",
         "baits": [
             "Spoon",
@@ -104,9 +117,11 @@
             "Marshmallow",
             "Spinner",
             "Redworm"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/3/3f/Fishes_ScreenshotsGolden_Trout.png?width=814"
     },
     {
+        "id": "7",
         "name": "Green Sunfish",
         "baits": [
             "Bloodworm",
@@ -123,18 +138,22 @@
             "Grub",
             "Tube",
             "Spinner"
-        ]
+        ],
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
     },
     {
+        "id": "8",
         "name": "Kokanee Salmon",
         "baits": [
             "Spinner",
             "Spoon",
             "Crankbait",
             "Jerkbait"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/e1/Fishes_ScreenshotsKokanee_Salmon.png?width=814"
     },
     {
+        "id": "9",
         "name": "Lake Trout",
         "baits": [
             "Spoon",
@@ -145,9 +164,11 @@
             "Worm",
             "Grub",
             "Shad"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ed/Fishes_ScreenshotsLake_Trout.png?width=814"
     },
     {
+        "id": "10",
         "name": "Largemouth Bass",
         "baits": [
             "Popper",
@@ -165,9 +186,11 @@
             "Spoon",
             "Spinner",
             "Jerkbait"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/1/15/Fishes_ScreenshotsLargemouth_Bass.png?width=814"
     },
     {
+        "id": "11",
         "name": "Mountain Whitefish",
         "baits": [
             "Eggs",
@@ -184,9 +207,11 @@
             "Marshmallow",
             "Spoon",
             "Swimbait"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/9/95/Fishes_ScreenshotsMountain_Whitefish.png?width=814"
     },
     {
+        "id": "12",
         "name": "Northern Pike",
         "baits": [
             "Swimbait",
@@ -200,9 +225,11 @@
             "Crankbait",
             "Frog",
             "Spinner"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/9/9b/Fishes_ScreenshotsNorthern_Pike.png?width=814"
     },
     {
+        "id": "13",
         "name": "Ohrid Trout",
         "baits": [
             "Eggs",
@@ -215,9 +242,11 @@
             "Spinner",
             "Shad",
             "Tube"
-        ]
+        ],
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
     },
     {
+        "id": "14",
         "name": "Rainbow Trout",
         "baits": [
             "Spinner",
@@ -228,9 +257,11 @@
             "Bread",
             "Redworm",
             "Hotdog"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/3/35/Fishes_ScreenshotsRainbow_Trout.png?width=814"
     },
     {
+        "id": "15",
         "name": "Sauger",
         "baits": [
             "Redworm",
@@ -241,9 +272,11 @@
             "Crankbait",
             "Jerkbait",
             "Worm"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/4/4b/Fishes_ScreenshotsSauger.png?width=814"
     },
     {
+        "id": "16",
         "name": "Shovelnose Sturgeon",
         "baits": [
             "Redworm",
@@ -254,9 +287,11 @@
             "Spinnerbait",
             "Bloodworm",
             "Minnow"
-        ]
+        ],
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
     },
     {
+        "id": "17",
         "name": "Smallmouth Bass",
         "baits": [
             "Eggs",
@@ -275,9 +310,11 @@
             "Shad",
             "Tube",
             "Jerkbait"
-        ]
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/a/a7/Fishes_ScreenshotsSmallmouth_Bass.png?width=814"
     },
     {
+        "id": "18",
         "name": "Tiger Muskie",
         "baits": [
             "Swimbait",
@@ -289,9 +326,11 @@
             "Grub",
             "Popper",
             "Frog"
-        ]
+        ],
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
     },
     {
+        "id": "19",
         "name": "Walleye",
         "baits": [
             "Leeches",
@@ -304,7 +343,26 @@
             "Tube",
             "Bloodworm",
             "Worm"
-        ]
+        ],
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
+    },
+    {
+        "id": "20",
+        "name": "Yellow Perch",
+        "baits": [
+            "Bloodworm",
+            "Cheese",
+            "Bread",
+            "Redworm",
+            "Leeches",
+            "Liver",
+            "Minnow",
+            "Pearl Barley",
+            "Hotdog",
+            "Grub",
+            "Spinner",
+            "Tube"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814"
     }
-
 ]

@@ -30,24 +30,31 @@ const App = () => {
 
   return (
     <div className="App">
-
       <div>
-        <p>
-          Desired Fish Toggle
-        </p>
-        {fishWithProps.map(fish => <button className={`${fish.desired ? 'on' : 'off'}`} key={`${fish.name} desired`} onClick={() => handleDesiredClick(fish, fishWithProps, updateFishWithProps)}>{fish.name}</button>)}
+        <div className="DesiredFish">
+          <p>
+            Desired Fish
+          </p>
+          {fishWithProps.map(fish => <button className={`${fish.desired ? 'on' : 'off'}`} key={`${fish.name} desired`} onClick={() => handleDesiredClick(fish, fishWithProps, updateFishWithProps)}>{fish.name}</button>)}
+        </div>
+        <div className="NuisanceFish">
+          <p>
+            Nuisance Fish
+          </p>
+          {fishWithProps.map(fish => <button className={`${fish.nuisance ? 'on' : 'off'}`} key={`${fish.name} nuisance`} onClick={() => handleNuisanceClick(fish, fishWithProps, updateFishWithProps)}>{fish.name}</button>)}
+        </div>
       </div>
       <div>
         <p>
-          Nuisance Fish Toggle
+          Baits:
         </p>
-        {fishWithProps.map(fish => <button className={`${fish.nuisance ? 'on' : 'off'}`} key={`${fish.name} nuisance`} onClick={() => handleNuisanceClick(fish, fishWithProps, updateFishWithProps)}>{fish.name}</button>)}
+        {
+          getBaits(fishWithProps).join(', ')
+        }
       </div>
-      <div>{
-        getBaits(fishWithProps)
-          .map(bait => <p>{bait}</p>)
-      }</div>
-      {/* <button onClick={console.log(getBaits(fishWithProps))}>Get Fish</button> */}
+      <footer>
+        Baits are returned in the order listed in the in game handbook
+      </footer>
     </div>
   );
 }

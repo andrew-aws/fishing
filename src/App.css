@@ -30,6 +30,10 @@ footer {
   color: white;
 }
 
+.off {
+  background-color: #ffffff;
+}
+
 .DesiredFish, .NuisanceFish{
   width: 50%;
 }
@@ -40,4 +44,11 @@ footer {
 
 .NuisanceFish {
   float: right;
+}
+
+.ButtonContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* gap: 10px; */
 }

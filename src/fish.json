@@ -1,6 +1,5 @@
 [
     {
-        "id": "0",
         "name": "Black Crappie",
         "baits": [
             "Minnow",
@@ -12,10 +11,12 @@
             "Spoon",
             "Crankbait"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "1",
         "name": "Bluegill",
         "baits": [
             "Bloodworm",
@@ -33,10 +34,12 @@
             "Minnow",
             "Spinner"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "2",
         "name": "Brook Trout",
         "baits": [
             "Spoon",
@@ -54,10 +57,12 @@
             "Shad",
             "Tube"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "3",
         "name": "Burbot",
         "baits": [
             "Liver",
@@ -75,10 +80,13 @@
             "Dough",
             "Marshmallow"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve",
+            "Trollsporet Nature Reserve"
+        ]
     },
     {
-        "id": "4",
         "name": "Channel Catfish",
         "baits": [
             "Cheese",
@@ -91,10 +99,12 @@
             "Pearl Barley",
             "Bread"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/5/5c/Fishes_ScreenshotsChannel_Catfish.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/5/5c/Fishes_ScreenshotsChannel_Catfish.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "5",
         "name": "Cutthroat Trout",
         "baits": [
             "Eggs",
@@ -106,10 +116,12 @@
             "Shad",
             "Tube"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ea/Fishes_ScreenshotsBluegill.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "6",
         "name": "Golden Trout",
         "baits": [
             "Spoon",
@@ -118,10 +130,12 @@
             "Spinner",
             "Redworm"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/3/3f/Fishes_ScreenshotsGolden_Trout.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/3/3f/Fishes_ScreenshotsGolden_Trout.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "7",
         "name": "Green Sunfish",
         "baits": [
             "Bloodworm",
@@ -139,10 +153,12 @@
             "Tube",
             "Spinner"
         ],
-        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "8",
         "name": "Kokanee Salmon",
         "baits": [
             "Spinner",
@@ -150,10 +166,12 @@
             "Crankbait",
             "Jerkbait"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/e1/Fishes_ScreenshotsKokanee_Salmon.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/e1/Fishes_ScreenshotsKokanee_Salmon.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "9",
         "name": "Lake Trout",
         "baits": [
             "Spoon",
@@ -165,10 +183,12 @@
             "Grub",
             "Shad"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ed/Fishes_ScreenshotsLake_Trout.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/e/ed/Fishes_ScreenshotsLake_Trout.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "10",
         "name": "Largemouth Bass",
         "baits": [
             "Popper",
@@ -187,10 +207,12 @@
             "Spinner",
             "Jerkbait"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/1/15/Fishes_ScreenshotsLargemouth_Bass.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/1/15/Fishes_ScreenshotsLargemouth_Bass.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "11",
         "name": "Mountain Whitefish",
         "baits": [
             "Eggs",
@@ -208,10 +230,12 @@
             "Spoon",
             "Swimbait"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/9/95/Fishes_ScreenshotsMountain_Whitefish.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/9/95/Fishes_ScreenshotsMountain_Whitefish.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "12",
         "name": "Northern Pike",
         "baits": [
             "Swimbait",
@@ -226,10 +250,13 @@
             "Frog",
             "Spinner"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/9/9b/Fishes_ScreenshotsNorthern_Pike.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/9/9b/Fishes_ScreenshotsNorthern_Pike.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve",
+            "Trollsporet Nature Reserve"
+        ]
     },
     {
-        "id": "13",
         "name": "Ohrid Trout",
         "baits": [
             "Eggs",
@@ -243,10 +270,12 @@
             "Shad",
             "Tube"
         ],
-        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "14",
         "name": "Rainbow Trout",
         "baits": [
             "Spinner",
@@ -258,10 +287,12 @@
             "Redworm",
             "Hotdog"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/3/35/Fishes_ScreenshotsRainbow_Trout.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/3/35/Fishes_ScreenshotsRainbow_Trout.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "15",
         "name": "Sauger",
         "baits": [
             "Redworm",
@@ -273,10 +304,12 @@
             "Jerkbait",
             "Worm"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/4/4b/Fishes_ScreenshotsSauger.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/4/4b/Fishes_ScreenshotsSauger.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "16",
         "name": "Shovelnose Sturgeon",
         "baits": [
             "Redworm",
@@ -288,10 +321,12 @@
             "Bloodworm",
             "Minnow"
         ],
-        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "17",
         "name": "Smallmouth Bass",
         "baits": [
             "Eggs",
@@ -311,10 +346,12 @@
             "Tube",
             "Jerkbait"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/a/a7/Fishes_ScreenshotsSmallmouth_Bass.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/a/a7/Fishes_ScreenshotsSmallmouth_Bass.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "18",
         "name": "Tiger Muskie",
         "baits": [
             "Swimbait",
@@ -327,10 +364,12 @@
             "Popper",
             "Frog"
         ],
-        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "19",
         "name": "Walleye",
         "baits": [
             "Leeches",
@@ -344,10 +383,12 @@
             "Bloodworm",
             "Worm"
         ],
-        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920"
+        "thumb": "https://www.datocms-assets.com/66227/1661531316-fishes_screenshotskokanee_salmon.png?auto=format&w=1920",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
     },
     {
-        "id": "20",
         "name": "Yellow Perch",
         "baits": [
             "Bloodworm",
@@ -363,6 +404,258 @@
             "Spinner",
             "Tube"
         ],
-        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814"
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Golden Ridge Reserve"
+        ]
+    },
+    {
+        "name": "Arctic Char",
+        "baits": [
+            "Spoon",
+            "Spinner",
+            "Leeches",
+            "Minnow",
+            "Crankbait",
+            "Jerkbait"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Asp",
+        "baits": [
+            "Swimbait",
+            "Grub",
+            "Jerkbait",
+            "Shad",
+            "Minnow",
+            "Spoon",
+            "Crankbait",
+            "Spinner",
+            "Spinnerbait",
+            "Tube",
+            "Worm",
+            "Bloodworm",
+            "Redworm"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Atlantic Salmon",
+        "baits": [
+            "Eggs",
+            "Redworm",
+            "Spoon",
+            "Spinner",
+            "Minnow",
+            "Crankbait",
+            "Jerkbait",
+            "Cheese",
+            "Bread",
+            "Hotdog"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Bream",
+        "baits": [
+            "Bloodworm",
+            "Redworm",
+            "Pearl Barley",
+            "Eggs",
+            "Bread",
+            "Dough",
+            "Hotdog",
+            "Liver",
+            "Minnow",
+            "Spoon",
+            "Grub",
+            "Spinner",
+            "Shad",
+            "Tube",
+            "Worm"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Brown Trout",
+        "baits": [
+            "Dough",
+            "Spinner",
+            "Pearl Barley",
+            "Leeches",
+            "Marshmallow",
+            "Minnow",
+            "Spoon",
+            "Cheese",
+            "Bread",
+            "Redworm",
+            "Hotdog"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Bullhead Catfish",
+        "baits": [
+            "Redworm",
+            "Leeches",
+            "Liver",
+            "Minnow",
+            "Cheese",
+            "Dough",
+            "Hotdog",
+            "Marshmallow",
+            "Bloodworm",
+            "Pearl Barley",
+            "Eggs",
+            "Bread"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Chub",
+        "baits": [
+            "Cheese",
+            "Hotdog",
+            "Bloodworm",
+            "Pearl Barley",
+            "Eggs",
+            "Bread",
+            "Redworm",
+            "Dough",
+            "Leeches",
+            "Popper",
+            "Liver",
+            "Minnow",
+            "Spoon",
+            "Crankbait",
+            "Frog",
+            "Jerkbait",
+            "Marshmallow",
+            "Swimbait",
+            "Spinner",
+            "Spinnerbait",
+            "Tube"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Grayling",
+        "baits": [
+            "Eggs",
+            "Spoon",
+            "Spinner",
+            "Bloodworm",
+            "Redworm"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "European Perch",
+        "baits": [
+            "Minnow",
+            "Crankbait",
+            "Jerkbait",
+            "Shad",
+            "Bloodworm",
+            "Cheese",
+            "Bread",
+            "Redworm",
+            "Leeches",
+            "Popper",
+            "Spoon",
+            "Frog",
+            "Swimbait",
+            "Grub",
+            "Spinner",
+            "Spinnerbait",
+            "Tube",
+            "Worm",
+            "Pearl Barley",
+            "Hotdog"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Ide",
+        "baits": [
+            "Cheese",
+            "Bread",
+            "Redworm",
+            "Minnow",
+            "Grub",
+            "Tube",
+            "Worm",
+            "Pearl Barley",
+            "Dough",
+            "Spinner"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Roach",
+        "baits": [
+            "Bloodworm",
+            "Pearl Barley",
+            "Bread",
+            "Redworm",
+            "Dough",
+            "Spinner"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
+    },
+    {
+        "name": "Zander",
+        "baits": [
+            "Minnow",
+            "Grub",
+            "Shad",
+            "Tube",
+            "Redworm",
+            "Hotdog",
+            "Leeches",
+            "Liver",
+            "Spoon",
+            "Crankbait",
+            "Swimbait",
+            "Worm"
+        ],
+        "thumb": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-the-wild-the-angler/8/89/Fishes_ScreenshotsYellow_Perch.png?width=814",
+        "reserves": [
+            "Trollsporet Nature Reserve"
+        ]
     }
 ]

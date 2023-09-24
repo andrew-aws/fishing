@@ -3,10 +3,6 @@ import getBaits from './tools/getBaits';
 import fish from './fish.json'
 import { useState } from 'react';
 
-// const onDragEnd = (result) => {
-//   console.log(result);
-// };
-
 const getReserves = (fishes) => {
   const reserves = fishes.map(
     fish => fish.reserves
@@ -32,6 +28,10 @@ const handleNuisanceClick = (fish, fishWithProps, updateFishWithProps) => {
     }
     return thisFish
   }))
+}
+
+const handleResetClick = (fishWithProps, updateFishWithProps) => {
+  updateFishWithProps(fishWithProps.map(fish => {return {...fish, desired: false, nuisance: false}}))
 }
 
 const App = () => {
@@ -101,6 +101,12 @@ const App = () => {
             }
           </div>
         </div>
+      </div>
+      <div>
+        <button
+        onClick={() => handleResetClick(fishWithProps, updateFishWithProps)}>
+          Reset Fish
+        </button>
       </div>
       <div>
         <p>

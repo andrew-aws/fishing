@@ -113,7 +113,7 @@ const App = () => {
           Baits:
         </p>
         {
-          getBaits(fishWithProps)
+          getBaits(reserveFish)
         }
       </div>
       <footer>

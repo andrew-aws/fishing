@@ -44,7 +44,7 @@ const App = () => {
 
   const [reserve, updateReserve] = useState(reserves[0])
 
-  const reserveFish = fishWithProps.filter(fish => fish.reserves.includes(reserve))
+  const reserveFish = fishWithProps.filter(fish => fish.reserves.includes(reserve)).sort((a,b) => a.name > b.name ? 1 : -1)
 
   return (
     <div className="App">

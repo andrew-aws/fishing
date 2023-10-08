@@ -116,9 +116,9 @@ const App = () => {
           getBaits(reserveFish)
         }
       </div>
-      <footer>
+      {/* <footer>
         Baits are returned in the order listed in the in game handbook
-      </footer>
+      </footer> */}
     </div>
   );
 }

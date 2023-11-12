@@ -198,7 +198,8 @@
             "Jerkbait"
         ],
         "reserves": [
-            "Golden Ridge Reserve"
+            "Golden Ridge Reserve",
+            "Aguas Claras Municipio"
         ]
     },
     {
@@ -240,7 +241,8 @@
         ],
         "reserves": [
             "Golden Ridge Reserve",
-            "Trollsporet Nature Reserve"
+            "Trollsporet Nature Reserve",
+            "Aguas Claras Municipio"
         ]
     },
     {
@@ -480,7 +482,8 @@
             "Hotdog"
         ],
         "reserves": [
-            "Trollsporet Nature Reserve"
+            "Trollsporet Nature Reserve",
+            "Aguas Claras Municipio"
         ]
     },
     {
@@ -602,7 +605,8 @@
             "Spinner"
         ],
         "reserves": [
-            "Trollsporet Nature Reserve"
+            "Trollsporet Nature Reserve",
+            "Aguas Claras Municipio"
         ]
     },
     {
@@ -622,7 +626,173 @@
             "Worm"
         ],
         "reserves": [
-            "Trollsporet Nature Reserve"
+            "Trollsporet Nature Reserve",
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Andalusian Barbel",
+        "baits": [
+            "Bloodworm",
+            "Cheese",
+            "Dough",
+            "Redworm",
+            "Hotdog"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Cozimo Barbel",
+        "baits": [
+            "Bloodworm",
+            "Cheese",
+            "Dough",
+            "Redworm",
+            "Hotdog"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Crucian Carp",
+        "baits": [
+            "Bloodworm",
+            "Cheese",
+            "Bread",
+            "Dough",
+            "Redworm",
+            "Hotdog",
+            "Marshmallow"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Common Carp",
+        "baits": [
+            "Cheese",
+            "Redworm",
+            "Bloodworm",
+            "Dough",
+            "Hotdog",
+            "Marshmallow",
+            "Bread"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Mirror Carp",
+        "baits": [
+            "Cheese",
+            "Dough",
+            "Redworm",
+            "Hotdog"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "European Eel",
+        "baits": [
+            "Minnow",
+            "Bloodworm",
+            "Redworm",
+            "Cheese"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Thicklip Mullet",
+        "baits": [
+            "Dough",
+            "Redworm",
+            "Minnow",
+            "Cheese",
+            "Bread",
+            "Tube",
+            "Bloodworm",
+            "Spoon",
+            "Grub",
+            "Spinnerbait"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Thinlip Mullet",
+        "baits": [
+            "Dough",
+            "Redworm",
+            "Minnow",
+            "Cheese",
+            "Bread",
+            "Tube",
+            "Bloodworm",
+            "Spoon",
+            "Grub",
+            "Spinnerbait"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Pumpkinseed",
+        "baits": [
+            "Bloodworm",
+            "Redworm",
+            "Hotdog",
+            "Grub",
+            "Tube",
+            "Cheese",
+            "Eggs",
+            "Bread",
+            "Dough",
+            "Marshmallow",
+            "Leeches",
+            "Liver",
+            "Minnow",
+            "Spinner"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Rudd",
+        "baits": [
+            "Bloodworm",
+            "Pearl Barley",
+            "Bread",
+            "Dough",
+            "Redworm"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
+        ]
+    },
+    {
+        "name": "Tench",
+        "baits": [
+            "Redworm",
+            "Leeches",
+            "Bloodworm",
+            "Pearl Barley",
+            "Bread",
+            "Dough"
+        ],
+        "reserves": [
+            "Aguas Claras Municipio"
         ]
     }
 ]
